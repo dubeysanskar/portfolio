@@ -19,13 +19,10 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged.
+            Hello! I am <strong> Sanskar Dubey </strong>  A leader by mind and a developer by skill, passionate about creating dynamic, user-friendly applications using the MERN stack.
+ Skilled in algorithms, data structures, and software engineering, thriving in collaborative environments and excelling at team
+ leadership contributed to communities like Wikipedia, GDSC, and GDG Prayagraj. Also the President of Codify Club, a
+ community of over 1000 members across platforms that foster innovation and teamwork
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.
